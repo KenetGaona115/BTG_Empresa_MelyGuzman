@@ -1,0 +1,17 @@
+.container{
+    padding-top: 3%;
+    text-align: center;
+}
+.row{
+    text-align: center;
+    height: 40%;
+    display: flex;
+  }
+  
+  .image{
+    margin: auto;
+  }
+  img{
+    height: 50%;
+    width: 50%;
+  }
