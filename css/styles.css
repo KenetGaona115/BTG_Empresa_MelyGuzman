@@ -4,13 +4,13 @@
 }
 
 @font-face {
-    font-family: Nougat;
-    src: url("Nougat-ExtraBlack.ttf");
+    font-family: Florilane;
+    src: url("Florilane\ Cardillac.ttf");
 }
 
 @font-face {
-    font-family: Lobster;
-    src: url("Lobster-Regular.ttf");
+    font-family: Basic;
+    src: url("Basic\ Light.ttf");
 }
 
 body {
@@ -19,19 +19,19 @@ body {
 }
 
 h1 {
-    font-family: Nougat;
+    font-family: Florilane;
     margin-bottom: 0px;
     margin-top: 10px;
     font-size: 70px;
 }
 
 h3 {
-    font-family: Nougat;
+    font-family: Florilane;
     margin-bottom: 0px;
 }
 
 .desc p {
-    font-family: Lobster;
+    font-family: Basic;
 
 }
 
